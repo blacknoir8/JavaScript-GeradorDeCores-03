@@ -1,1 +1,1 @@
-# JavaScript-GeradorDeCores-03
+# ColorPaletteGeneratorInJavaScript
